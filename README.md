@@ -2,7 +2,9 @@
 # what is me
 me is me
 
-some funny info:
+<details>
+<summary>some funny info:</summary>
+
 ```py
 language = "python" # obviously lol
 os = ["windows 10", "endeavouros"]
@@ -25,3 +27,4 @@ funny = [c:=lambda:lambda:0x2_ec35fe1d9a3ea886a7c99748e52df1c0e1aa53992e,
 # todo: use <!-- actual github comments --> instead of python comments
 # todo: chess battle advanced
 ```
+</details>
