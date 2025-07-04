@@ -11,7 +11,7 @@ os = ["windows 10", "endeavouros"]
 languages_NOT_CODE = ["Русский", "English"]
 
 game_engine = "godot"
-code_editor = "notepad++"
+code_editor = ["notepad++", "neovim"]
 browser = ["firefox", "tor sometimes"]
 art_programs = ["mspaint", "photopea", "python"]
 
