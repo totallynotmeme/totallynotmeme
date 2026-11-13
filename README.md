@@ -25,7 +25,7 @@ art_programs = ["mspaint", "photopea", "python", "krita"]
 
 using_AI_to_code = False # never.
 using_AI_to_draw = False # never. x2
-people_who_actually_read_my_bio = []
+people_who_actually_read_my_bio = ["Bacnof"]
 unsolicited_cat_memes_received = 0
 behind_the_scenes_projects = [...] # a lot
 
